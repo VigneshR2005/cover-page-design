@@ -19,7 +19,7 @@ Make a new folder templates inside your app and create a html and map them using
 Write down the code for book cover using HTML and CSS.
 
 ### Step 5:
-Add images and other contents using CSS record a screenshot of it.
+Add images and other contents using CSS record  screenshot of it.
 
 
 
