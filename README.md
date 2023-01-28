@@ -7,10 +7,10 @@ To design a static web site for a book cover page.
 ## DESIGN STEPS:
 
 ### Step 1:
-Create a new Django project and app.
+Create new Django project and app.
 
 ### Step 2:
-Create a static file directory and mention the changes in settings.
+Create static file directory and mention the changes in settings.
 
 ### Step 3:
 Make a new folder templates inside your app and create a html and map them using views and url.
